@@ -1,0 +1,26 @@
+{
+  "name": "unisannio-node-grovepi",
+  "version": "1.0.1",
+  "description": "Unisannio GrovePi library for NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "async": "1.*",
+    "i2c-bus": "1.*",
+    "npmlog": "2.*",
+    "sleep": "3.*",
+    "mathjs": "3.17.*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woland7/GrovePi.git"
+  },
+  "keywords": [
+    "grovepi"
+  ],
+  "author": "Antonio De Iasio",
+  "license": "MIT"
+}
